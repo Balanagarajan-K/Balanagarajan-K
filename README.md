@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Balanagarajan-K
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ML, AI
-- 💞️ I’m looking to collaborate on ML, AI project
+- 👀 I’m interested building GEN AI solutions
+- 💞️ I’m looking to collaborate on GEN AI, LLM, ML & AI projects. 
 - 📫 How to reach me k.balanagarajan@gmail.com
 
 <!---
