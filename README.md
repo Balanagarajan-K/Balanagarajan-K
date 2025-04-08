@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Balanagarajan-K
 - 👀 I’m interested building GEN AI solutions
-- 💞️ I’m looking to collaborate on GEN AI, LLM, ML & AI projects. 
+- 💞️ I’m looking to collaborate on GEN AI, LLM, Data Analytics, AI & ML projects. 
 - 📫 How to reach me k.balanagarajan@gmail.com
 
 <!---
